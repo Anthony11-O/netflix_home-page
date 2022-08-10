@@ -1,0 +1,31 @@
+.me a {
+    padding: 5px;
+    margin: auto;
+}
+#things{
+    
+    padding: 15%
+}
+.learn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding:8px;
+    width: 25%;
+}
+.remote{
+    font-weight:bolder;
+    font-size:4em;
+}
+.login{
+    color: black;
+    width: 200%;
+    text-decoration: none;
+    padding-left: 5em;
+}
+img{
+    height: 100%;
+}
+.others{
+    padding: 15%;
+}
